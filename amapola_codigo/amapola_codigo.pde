@@ -3,7 +3,9 @@
 // https://pin.it/5HWNm2fki
 
 size(700, 700);
-background(237, 235, 235);
+
+//cambio de background a verde 
+background(150, 205, 135);
 
 //transladar grupo de coordenadas
 translate(350, 350);
